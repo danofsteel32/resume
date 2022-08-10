@@ -1,60 +1,53 @@
-<!-- The (first) h1 will be used as the <title> of the HTML page -->
-# Richard Hendricks
+# Dan Davis
+- <dan@dandavis.dev>
+- [614-551-8792](tel:6145518792)
+- [github](https://github.com/danofsteel32)
+- [sr.ht](https://git.sr.ht/~danofsteel32)
+- Columbus, OH
 
-<!-- The unordered list immediately after the h1 will be formatted on a single
-line. It is intended to be used for contact details -->
-- <richard.hendriks@mail.com>
-- (912) 555-4321
-- [richardhendricks.example.com](http://richardhendricks.example.com)
-- San Francisco, CA
 
-<!-- The paragraph after the h1 and ul and before the first h2 is optional. It
-is intended to be used for a short summary. -->
-CEO and Software Engineer with knowledge of applied information theory,
-including optimizing lossless compression schema of both the length-limited and
-adaptive variants.
+## Skills
+- 5+ years Linux system administration / DevOps experience
+- 5+ years PostreSQL database administration experience
+- Strong competence in Python, SQL
+- Some experience with C/C++ and embedded systems
+- Computer vision / machine learning classification problems
+
 
 ## Experience
 
-<!-- You have to wrap the "left" and "right" half of these headings in spans by
-hand -->
-### <span>CEO/President, Pied Piper</span> <span>Dec 2013 -- Dec 2014</span>
 
-Pied Piper is a multi-platform technology based on a proprietary universal
-compression algorithm that has consistently fielded high Weisman Scores™ that
-are not merely competitive, but approach the theoretical limit of lossless
-compression.
+### <span>Contract Software Engineer</span> <span> May 2017 - Present</span> 
 
- - Build an algorithm for artist to detect if their music was violating
-   copyright infringement laws
- - Successfully won Techcrunch Disrupt
- - Optimized an algorithm that holds the current world record for Weisman Scores
 
-### <span>Teacher, CoderDojo</span> <span>July 2013 -- Dec 2013</span>
+#### Stamping Plant
+- Developed digital twins for transfer presses
+  - Installed and networked GigE machine vision cameras
+      - Counting number of parts on conveyor belt
+      - Detecting mis-aligned blanks in stamping presses
+  - Pulled realtime data from Allen Bradley and Siemens PLC's
 
-Global movement of free coding clubs for young people.
 
- - Awarded 'Teacher of the Month'
+#### Dog Daycare
+- Worked closely with dog daycare business [Allpaws Retreat](https://allpawsretreat.com/)
+  - Designed and implemented an API to interface with [gingrapp.com](https://gingrapp.com).
+  - Automated many repetitive tasks using the API including scheduling, payroll, birthday e-cards
+  - Created an AI / machine learning based dog identification system
+  	- Saved the business 6+ hrs/day of manually identifying dogs in photos
+    - The solution leveraged Binary Relevance classification methods
 
-## Projects
 
-### <span>Miss Direction</span> <span>Aug 2016</span>
+#### Algorithmic Trading
+- Developed an automated Bitcoin trading system.
+  - Managed databases and Linux infrastructure for the project
+  - Designed a robust system that operated continuously for 2 years
 
-A mapping engine that misguides you:
 
-   - Won award at AIHacks 2016
-   - Built by all women team of newbie programmers
-   - Using modern technologies such as GoogleMaps, Chrome Extension and Javascript
+### <span>Operator at Worthington Steel</span> <span>September 2013 - May 2017</span>
+- Lead 5-man crew on 3-stand tandem mill
+- Helped engineering team introduce computer vision based defect detection system
 
-## Education
 
-### <span>University of Oklahoma, BA Information Technology</span> <span>2011 -- 2014</span>
-
-  - GPA 4.0
-  - DB1101 - Basic SQL
-  - CS2011 - Java Introduction
-
-## Skills
-
- - Web development: HTML, CSS, JavaScript
- - Compression: Mpeg, MP4, GIF
+### Education
+- CompTIA A+ (expired)
+- CompTIA Network+ (expired)
